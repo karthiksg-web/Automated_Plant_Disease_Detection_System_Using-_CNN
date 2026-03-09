@@ -104,7 +104,6 @@ See `requirement.txt` for full list. Main dependencies:
 - TensorFlow / Keras
 - Streamlit
 - NumPy
-- Pillow (PIL)
 - Matplotlib
 
 ---
